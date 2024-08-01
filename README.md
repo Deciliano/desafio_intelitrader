@@ -4,6 +4,7 @@
 ### Use o comando 'gcc --version' para saber se está ou não instalado
 
 ## Intale o compilador C:
+
 $ sudo apt-get update
 
 $ sudo apt-get install build-essential
@@ -13,6 +14,7 @@ Este projeto é um sistema de ofertas que permite inserir, modificar e deletar o
 O programa lê notificações e exibe as ofertas ordenadas por posição
 
 Compilando o código usando 'gcc':
+
 $ gcc -o livro_oferta livro_oferta.c
 
 $ ./livro_ofertas
@@ -23,6 +25,7 @@ O programa compara todos os pares possíveis de elementos entre dois arrays e re
 absoluta encontrada
 
 Compilando o código usando 'gcc':
+
 $ gcc -o menor_distancia menor_distancia.c
 
 $ ./menor_distancia
