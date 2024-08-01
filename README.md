@@ -1,4 +1,4 @@
-# desafio_intelitrader
+# Desafio_intelitrader
 
 ## - Para rodas as aplicações, tenha certeza de que tem instalado o compilador C.
 
