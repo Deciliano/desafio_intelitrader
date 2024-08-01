@@ -1,6 +1,7 @@
 # Desafio_intelitrader
 
-## - Para rodas as aplicações, tenha certeza de que tem instalado o compilador C.
+## - Para rodar as aplicações, tenha certeza de que tem instalado o compilador C.
+### Use o comando 'gcc --version' para saber se está ou não instalado
 
 ## Intale o compilador C:
 $ sudo apt-get update
