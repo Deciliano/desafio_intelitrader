@@ -100,7 +100,7 @@ void print_result() {
     sort_offers();
     printf("POSICAO - VALOR - QUANTIDADE\n");
     for (int i = 0; i < num_offers; i++) {
-        printf("%d,%.2f,%d\n", offers[i].position, offers[i].value, offers[i].quantity);
+        printf("%d - %.2f - %d\n", offers[i].position, offers[i].value, offers[i].quantity);
     }
 }
 
